@@ -69,7 +69,7 @@ Retrieve all the text files in the folder with their content.
 
    ```sh
    git clone https://github.com/rajat4rao/FSDDAY33.git
-   cd nodejs-file-system
+   cd FSDDAY33
    ```
 
 2. Install dependencies:
