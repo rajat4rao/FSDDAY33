@@ -68,8 +68,8 @@ Retrieve all the text files in the folder with their content.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/rajat4rao/FSDDAY33.git
-   cd FSDDAY33
+   git clone https://github.com/rajat4rao/nodejs-filesystem.git
+   cd nodejs-filesystem
    ```
 
 2. Install dependencies:
